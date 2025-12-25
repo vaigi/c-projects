@@ -11,9 +11,9 @@ Repository for storing projects written in the C language.
 │   ├── Makefile        # Build and test script
 │   ├── *.c, *.h        # Source code and header files
 │   ├── README_RUS.md   # Project documentation in Russian
-│   └── README_ENG.md   # Project documentation in English
-├── README_RUS.md       # Current repository guide in Russian
-└── README_ENG.md       # Current repository guide in English
+│   └── README.md       # Project documentation in English
+├── README_RUS.md       
+└── README.md       
 ```
 
 ## Project List
