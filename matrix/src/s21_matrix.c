@@ -1,8 +1,8 @@
 #include "s21_matrix.h"
 
 // 1 — OK;
-// 0 — Ошибка, некорректная матрица
-// 2 — Ошибка вычисления
+// 0 — Invalid matrix structure (Ошибка, некорректная матрица)
+// 2 — Mathematical calculation error (Ошибка вычисления)
 // eq:
 // #define SUCCESS 0
 // #define FAILURE 1
