@@ -18,7 +18,7 @@ Repository for storing projects written in the C language.
 
 ## Project List
 
-* **[matrix](./matrix/README_ENG.md)** — Matrix operations library. Implements basic arithmetic operations, transposition, determinant calculation, and inverse matrix computation. The code is compliant with Google Style, thoroughly checked for memory leaks, and covered with unit tests via Check.h.
+* **[matrix](./matrix/README.md)** — Matrix operations library. Implements basic arithmetic operations, transposition, determinant calculation, and inverse matrix computation. The code is compliant with Google Style, thoroughly checked for memory leaks, and covered with unit tests via Check.h.
 
 ## General Repository Guidelines
 
