@@ -6,7 +6,7 @@ Repository for storing projects written in the C language.
 
 ```text
 .
-├── s21_matrix/         # Matrix operations library (C11, Check.h)
+├── matrix/         # Matrix operations library (C11, Check.h)
 │   ├── tests/          # Unit tests
 │   ├── Makefile        # Build and test script
 │   ├── *.c, *.h        # Source code and header files
