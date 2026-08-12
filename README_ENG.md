@@ -1,7 +1,5 @@
 # C Programming Projects Portfolio
 
-[Russian Version](./README_RUS.md)
-
 Repository for storing projects written in the C language.
 
 ## Project Directory
